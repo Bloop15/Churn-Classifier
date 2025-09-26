@@ -8,10 +8,10 @@ A machine learning project to predict customer churn, a binary classification pr
 
 This project follows a structured, modular workflow, documented across four Jupyter Notebooks:
 
-- **01_data_inspection.ipynb**: Initial data loading, cleaning, and comprehensive Exploratory Data Analysis (EDA) to uncover key insights into the dataset's characteristics and relationships.  
-- **02_data_preprocessing.ipynb**: Prepares the data for modeling by handling feature scaling, categorical encoding, and splitting the dataset into training and testing sets.  
-- **03_model_training.ipynb**: Trains and evaluates multiple classifiers, including a baseline model, Logistic Regression, Random Forest, and XGBoost. Includes hyperparameter tuning to optimize performance.  
-- **04_model_visualization_and_analysis.ipynb**: Creates key visualizations, analyzes feature importance, and presents final conclusions.  
+- **data_inspection.ipynb**: Initial data loading, cleaning, and comprehensive Exploratory Data Analysis (EDA) to uncover key insights into the dataset's characteristics and relationships.  
+- **data_preprocessing.ipynb**: Prepares the data for modeling by handling feature scaling, categorical encoding, and splitting the dataset into training and testing sets.  
+- **model_training.ipynb**: Trains and evaluates multiple classifiers, including a baseline model, Logistic Regression, Decision Tree, Random Forest, SVC and XGBoost. Includes hyperparameter tuning to optimize performance.  
+- **visualization.ipynb**: Creates key visualizations, analyzes feature importance, and presents final conclusions.  
 
 ---
 
